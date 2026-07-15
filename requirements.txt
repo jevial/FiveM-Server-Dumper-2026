@@ -1,0 +1,6 @@
+pywin32
+Pillow
+psutil
+opencv-python
+pynput
+requests
